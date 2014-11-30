@@ -12,4 +12,4 @@ EOT
     );
 }
 
-$loader->add('Sb1\\APIScanner\\Tests', __DIR__);
+$loader->add('Caveja\\APIScanner', __DIR__);

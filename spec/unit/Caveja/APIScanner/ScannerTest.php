@@ -1,5 +1,5 @@
 <?php
-namespace Sb1\APIScanner\Tests;
+namespace Caveja\APIScanner;
 
 class ScannerTest extends \PHPUnit_Framework_TestCase
 {
